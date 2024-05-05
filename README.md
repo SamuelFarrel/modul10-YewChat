@@ -8,3 +8,7 @@
 
 ### Browser Run
 <img src="images/31browser.png"><br><br>
+
+## Experiment 3.2: Be Creative!
+<img src="images/32.png"><br><br>
+**Explanation** - Untuk kreatifitas, saya mengubah tema dari aplikasi chat menjadi berwarna biru. Styling saya lakukan dengan merubah html yang direturn pada file `chat.rs` menggunakan tailwind. 
